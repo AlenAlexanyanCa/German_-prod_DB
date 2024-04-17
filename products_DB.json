@@ -1,0 +1,74 @@
+ [ 
+    {
+    "Name": "Auto-Trim Zubehör für den Rheometer",
+    "Beschreibung": "Das Auto-Trim Zubehör für den DHR vereinfacht die Polymer-Schmelzrheologie, indem es den Prozess des Probenheizens und -trimmens automatisiert. Anstatt den Ofen öffnen zu müssen, um Proben während der Tests manuell zu trimmen, können Benutzer einfach das Zubehör anbringen, ihre Probe laden und auf Start drücken, um das Experiment bis zum Abschluss durchzuführen. Die proprietäre Technologie von TA konditioniert automatisch die Probe, passt den Spalt an und trimmt die Probe zum geeigneten Zeitpunkt während des Tests ohne jegliches Eingreifen des Bedieners.",
+    "ANWENDUNGEN": ["Polymeranalyse", "Polymer-Schmelze"],
+    "PRODUKTKATEGORIEN": ["Auto-Trim Rheometer", "Rheometer"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma", "Kunststoffe"]
+    },
+    {
+    "Name": "VICI Valco/Cheminert-Katalog",
+    "Beschreibung": "Der Katalog enthält eine Vielzahl von Produkten wie Ventile, Fittinge, Filter, Kapillaren, GC-Detektoren und GC-Säulen. Er bietet Ventile für die Chromatographie, Ventilantriebe, Gas-Reinigungsfilter, Gas-Durchflussregler, Verschraubungen, Schläuche und Kapillaren in verschiedenen Materialien sowie eine Vielzahl von anderen Zubehörteilen. Darüber hinaus enthält der Katalog Applikationen zu Ventilschaltungen und andere wertvolle Tipps rund um die Chromatographie.",
+    "ANWENDUNGEN": ["Affinitätschromatographie", "Festphasenextraktion", "Flüssigchromatographie", "Gaschromatographie", "Überkritische Flüssigkeitschromatographie", "Überkritische Fluid-Extraktion", "UHPLC"],
+    "PRODUKTKATEGORIEN": ["Chromatographie-Fittinge", "Chromatographie-Zubehör", "Chromatographiesäulen", "Chromatographieventile", "Edelstahlkapillaren", "Fittinge", "Gaschromatographieventile", "GC-Detektoren", "GC-Säulen", "HPLC Schaltventile", "HPLC-Zubehör", "Kapillarsäulen", "Kapillarschläuche", "UHPLC-Fittinge", "UHPLC-Ventile", "UHPLC-Zubehör"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    },
+    {
+    "Name": "LenS3 MALS-V Dual-Detektor",
+    "Beschreibung": "Der LenS3 MALS-V Dual-Detektor ist ein integrierter Lichtstreu- und Viskositätsdetektor. Er bietet eine kostengünstige und leistungsstarke Lösung für die Dreifachdetektion in der GPC-Polymeranalytik. In einem SEC-Setup mit Dreifachdetektion misst der Brechungsindexdetektor die Konzentration, MALS liefert das tatsächliche Molekulargewicht und den Schwerpunktradius, während das Viskosimeter die intrinsische Viskosität misst.",
+    "ANWENDUNGEN": ["Copolymeranalytik", "Dendrimeranlyse", "Dextrananalyse", "Gel-Permeations-Chromatographie", "Konformationsanalyse", "Mehrwinkel-Lichtstreuung", "Multiwinkel-Lichtstreuung", "Nanopartikelanalytik", "Polymeranalytik", "Polymercharakterisierung", "Verzweigungsanalyse", "Viskosimetrie"],
+    "PRODUKTKATEGORIEN": ["GPC-Detektoren", "Lichtstreudetektoren", "Mehrwinkellichtstreu-Viskositätsdetektoren", "Viskositätsdetektoren"],
+    "ZIELBRANCHEN": ["Chemie", "Kunststoffe"]
+    },
+    {
+    "Name": "Kleinster Fluoreszenzdetektor für HPLC",
+    "Beschreibung": "Der kleinste Fluoreszenzdetektor für Flüssigkeitschromatographie bietet hohe Empfindlichkeit und Flexibilität. Er kann im analytischen Labor oder in anderen fluorimetrischen Anwendungen eingesetzt werden und ermöglicht die Aufreinigung von Arzneiwirkstoffen, Bioanalytik, Proteinaufreinigung, Prozesschromatographie, Trinkwasseranalytik und Umweltanalytik.",
+    "ANWENDUNGEN": ["Aufreinigung von Arzneiwirkstoffen", "Bioanalytik", "HPLC", "Proteinaufreinigung", "Prozesschromatographie", "Trinkwasseranalytik", "Umweltanalytik"],
+    "PRODUKTKATEGORIEN": ["Fluoreszenzdetektoren", "Fluorimeter", "mit Filter", "mit LED"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Pharma"]
+    },
+    {
+    "Name": "Universeller GC-Detektor",
+    "Beschreibung": "Hamamatsu bietet eine breite Palette an Produkten für den Ionisations- und Detektionsbereich der Massenspektrometrie. Dies umfasst Lichtquellen, Ionendetektoren, Mikrokanalplatten und andere Zubehörteile. Durch die Entwicklung von Geräten mit verschiedenen Technologien hat Hamamatsu eine neue Reihe von Detektoren entwickelt, die die effektivste und präziseste Analyse für jede Massenspektrometrie-Technik bieten.",
+    "ANWENDUNGEN": ["Lebensmittelkontrollen", "Quadrupolmassenspektrometrie", "Sektorfeld-Massenspektrometrie", "TOF-Massenspektrometrie"],
+    "PRODUKTKATEGORIEN": ["Elektronenvervielfacher", "Ionendetektoren", "Lichtquellen", "Massenspektrometerzubehör", "Mikrokanalplatten"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie"]
+    },
+
+    {
+
+    "Name": "Mütek Particle Charge Detector PCD-06",
+    "Beschreibung": "Der Mütek™ PCD-06 Particle Charge Detector misst die Ladung kolloidal gelöster Substanzen in wässrigen Lösungen. Er liefert zuverlässige Ergebnisse auch bei hohen Leitfähigkeiten und ist als Standardgerät für die Ladungsmessung im Labor in der Papierindustrie weltweit etabliert. Der PCD-06 bestimmt den Ladungsgehalt einer Probe mittels Messung des Strömungspotentials und anschließender Polyelektrolyt-Titration oder mittels Säure-Base-Titration zur Ermittlung der pH-Abhängigkeit der Probenladung und ihres isoelektrischen Punkts.",
+    "ANWENDUNGEN": ["Ladungsmessung", "Leitfähigkeitsmessung", "pH-Wertmessungen", "Polyelektrolyt-Titration", "Titration"],
+    "PRODUKTKATEGORIEN": ["Ladungsmesssysteme", "Titratoren"],
+    "ZIELBRANCHEN" : []
+    },
+    {
+    "Name": "Echelle-Plasma-Emissions-Detektor (EPED)",
+    "Beschreibung": "Der Echelle-Plasma-Emissions-Detektor (EPED) ist ein elementspezifischer Detektor zur selektiven Analyse von Halogen- und Schwefelverbindungen. Robuster und sensitiver als der Atomemissions-Detektor (AED) ermöglicht er eine einfache Konzentrationsbestimmung in komplexen Matrices ohne Primärstandards. Die Quantifizierung erfolgt über die emittierte Lichtenergie, die direkt proportional zur Konzentration ist. Der EPED ist essentiell für die Analyse von Chlorparaffinen, Fluorverbindungen, Schwefelverbindungen und anderen Halogenverbindungen in verschiedenen Branchen.",
+    "ANWENDUNGEN": ["Chlorparaffin-Analytik", "Fluor-Analytik", "Gaschromatographie", "Halogenanalyse", "Konzentrationsbestimmung", "PFAS-Analytik", "Schwefelanalytik", "Spurenanalytik"],
+    "PRODUKTKATEGORIEN": ["Echelle-Plasma-Emissionsdetektoren", "GC-Detektoren"],
+    "ZIELBRANCHEN": ["Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    },
+    {
+    "Name": "NanoStar II: DLS und SLS mit Touch-Bedienung",
+    "Beschreibung": "Das DynaPro NanoStar II ist ein küvettenbasiertes DLS-Instrument für die Analyse von Proteinen, Gentherapie-Vektoren, Viren, Liposomen und mehr. Es bietet eine einfache Bedienung mit DYNAMICS Touch, einer intuitiven DLS-Messapplikation, die direkt auf dem NanoStar installiert ist. Das NanoStar II ermöglicht die Analyse der Probenstabilität weit über die Größe hinaus und bietet umfassende Informationen über Partikelkonzentration, den zweiten Virialkoeffizienten, den Diffusionswechselwirkungsparameter und die Aggregationstemperatur.",
+    "ANWENDUNGEN": ["Asymmetrische Fluss-Feldfluss-Fraktionierung", "Dynamische Lichtstreuung", "Feldflussfraktionierung", "Hohlfaser-Feldflussfraktionierung", "Kristallisation", "Multiwinkel-Lichtstreuung", "Proteinkristallisation"],
+    "PRODUKTKATEGORIEN": ["AF4-Systeme", "HF5-Systeme", "Laser", "MALS-Detektoren", "Partikel", "Proteinanalysatoren", "Proteine", "SLS"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma"]
+    },
+    {
+    "Name": "miniDAWN® Multi-Angle Light Scattering (MALS) Detektor",
+    "Beschreibung": "Das miniDAWN ist die neueste Generation des 3-Winkel-Streulichtdetektors von Wyatt Technology. Es ermöglicht die Messung von absoluten Molmassen und Radien gekoppelt an die Chromatographie (GPC / SEC / HPLC). Mit MALS wird das Molekulargewicht von Makromolekülen aufgrund der Menge ihres Streulichtes gemessen. Das miniDAWN ist äußerst sensitiv und benötigt nur 25 ng Substanz, um die Molmasse eines 100 kDa Moleküls zu bestimmen.",
+    "ANWENDUNGEN": ["Dynamische Lichtstreuung", "Feldflussfraktionierung", "Molekulargewichtsbestimmung", "Polymercharakterisierung", "Proteinanalytik", "Viskositätsmessung"],
+    "PRODUKTKATEGORIEN": ["Brechungsindexdetektoren", "Chromatographiedetektoren", "Detektoren", "Diodenarray-Detektoren", "Lichtstreudetektoren", "MALS-Detektoren", "Proteinanalysatoren"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma"]
+    },
+    {
+    "Name": "FFF-MALS System zur Trennung und Charakterisierung von Makromolekülen und Nanopartikeln",
+    "Beschreibung": "Das FFF-MALS-System von Wyatt Technology ermöglicht die Trennung und Charakterisierung von Makromolekülen und Nanopartikeln im Größenbereich von 1 nm bis 1000 nm mittels Mehrwinkel-Lichtstreuung (MALS). Es bietet eine verbesserte Benutzerfreundlichkeit, robuste FFF-Kanäle mit Temperaturkontrolle und ein Dilution Control Module zur Konzentrationssteigerung. Das Mobility-Modul misst die elektrophoretische Mobilität von Proben in Lösung und kann die Mobilität für jede Spezies bestimmen.",
+    "ANWENDUNGEN": ["Asymmetrische Fluss-Feldfluss-Fraktionierung", "Feldflussfraktionierung", "Molekularbiologie", "Polymeranalytik", "Polymeren-Trennung", "Proteinanalytik", "Trennung"],
+    "PRODUKTKATEGORIEN": ["AF4-Systeme", "Emulsionen", "Laser", "Makromoleküle", "MALS-Detektoren", "Nanopartikel", "Partikelanalysatoren", "Polymere", "Proteinanalysatoren", "Separatoren"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Kunststoffe", "Pharma"]
+    }
+    ]

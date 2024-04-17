@@ -1,0 +1,19 @@
+Create a json file like this in German only
+if not, put one of the ANWENDUNGEN  PRODUKTKATEGORIEN ZIELBRANCHEN add an empty list
+
+[ 
+    {
+    "Name": "Auto-Trim Zubehör für den Rheometer",
+    "Beschreibung": "Das Auto-Trim Zubehör für den DHR vereinfacht die Polymer-Schmelzrheologie, indem es den Prozess des Probenheizens und -trimmens automatisiert. Anstatt den Ofen öffnen zu müssen, um Proben während der Tests manuell zu trimmen, können Benutzer einfach das Zubehör anbringen, ihre Probe laden und auf Start drücken, um das Experiment bis zum Abschluss durchzuführen. Die proprietäre Technologie von TA konditioniert automatisch die Probe, passt den Spalt an und trimmt die Probe zum geeigneten Zeitpunkt während des Tests ohne jegliches Eingreifen des Bedieners.",
+    "ANWENDUNGEN": ["Polymeranalyse", "Polymer-Schmelze"],
+    "PRODUKTKATEGORIEN": ["Auto-Trim Rheometer", "Rheometer"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma", "Kunststoffe"]
+    },
+    {
+    "Name": "VICI Valco/Cheminert-Katalog",
+    "Beschreibung": "Der Katalog enthält eine Vielzahl von Produkten wie Ventile, Fittinge, Filter, Kapillaren, GC-Detektoren und GC-Säulen. Er bietet Ventile für die Chromatographie, Ventilantriebe, Gas-Reinigungsfilter, Gas-Durchflussregler, Verschraubungen, Schläuche und Kapillaren in verschiedenen Materialien sowie eine Vielzahl von anderen Zubehörteilen. Darüber hinaus enthält der Katalog Applikationen zu Ventilschaltungen und andere wertvolle Tipps rund um die Chromatographie.",
+    "ANWENDUNGEN": ["Affinitätschromatographie", "Festphasenextraktion", "Flüssigchromatographie", "Gaschromatographie", "Überkritische Flüssigkeitschromatographie", "Überkritische Fluid-Extraktion", "UHPLC"],
+    "PRODUKTKATEGORIEN": ["Chromatographie-Fittinge", "Chromatographie-Zubehör", "Chromatographiesäulen", "Chromatographieventile", "Edelstahlkapillaren", "Fittinge", "Gaschromatographieventile", "GC-Detektoren", "GC-Säulen", "HPLC Schaltventile", "HPLC-Zubehör", "Kapillarsäulen", "Kapillarschläuche", "UHPLC-Fittinge", "UHPLC-Ventile", "UHPLC-Zubehör"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    }
+]
