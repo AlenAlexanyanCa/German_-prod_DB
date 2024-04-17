@@ -67,8 +67,56 @@
     {
     "Name": "FFF-MALS System zur Trennung und Charakterisierung von Makromolekülen und Nanopartikeln",
     "Beschreibung": "Das FFF-MALS-System von Wyatt Technology ermöglicht die Trennung und Charakterisierung von Makromolekülen und Nanopartikeln im Größenbereich von 1 nm bis 1000 nm mittels Mehrwinkel-Lichtstreuung (MALS). Es bietet eine verbesserte Benutzerfreundlichkeit, robuste FFF-Kanäle mit Temperaturkontrolle und ein Dilution Control Module zur Konzentrationssteigerung. Das Mobility-Modul misst die elektrophoretische Mobilität von Proben in Lösung und kann die Mobilität für jede Spezies bestimmen.",
-    "ANWENDUNGEN": ["Asymmetrische Fluss-Feldfluss-Fraktionierung", "Feldflussfraktionierung", "Molekularbiologie", "Polymeranalytik", "Polymeren-Trennung", "Proteinanalytik", "Trennung"],
+    "ANWENDUNGEN": ["Asymmetrische Fluss-Feldfluss-Fraktionierung", "Feldflussfraktionierung", "Molekularbiologie", "Polymeranalytik", "Polymeren-Trennung", "Proteinanalytik", "Trennung"],     
     "PRODUKTKATEGORIEN": ["AF4-Systeme", "Emulsionen", "Laser", "Makromoleküle", "MALS-Detektoren", "Nanopartikel", "Partikelanalysatoren", "Polymere", "Proteinanalysatoren", "Separatoren"],
     "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Kunststoffe", "Pharma"]
+    },
+    {
+        "Name": "Auto-Trim Zubehör für den Rheometer",
+        "Beschreibung": "Das Auto-Trim Zubehör für den DHR vereinfacht die Polymer-Schmelzrheologie, indem es den Prozess des Probenheizens und -trimmens automatisiert. Anstatt den Ofen öffnen zu müssen, um Proben während der Tests manuell zu trimmen, können Benutzer einfach das Zubehör anbringen, ihre Probe laden und auf Start drücken, um das Experiment bis zum Abschluss durchzuführen. Die proprietäre Technologie von TA konditioniert automatisch die Probe, passt den Spalt an und trimmt die Probe zum geeigneten Zeitpunkt während des Tests ohne jegliches Eingreifen des Bedieners.",
+        "ANWENDUNGEN": ["Polymeranalyse", "Polymer-Schmelze"],
+        "PRODUKTKATEGORIEN": ["Auto-Trim Rheometer", "Rheometer"],
+        "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma", "Kunststoffe"]
+    },
+    {
+        "Name": "VICI Valco/Cheminert-Katalog",
+        "Beschreibung": "Der Katalog enthält eine Vielzahl von Produkten wie Ventile, Fittinge, Filter, Kapillaren, GC-Detektoren und GC-Säulen. Er bietet Ventile für die Chromatographie, Ventilantriebe, Gas-Reinigungsfilter, Gas-Durchflussregler, Verschraubungen, Schläuche und Kapillaren in verschiedenen Materialien sowie eine Vielzahl von anderen Zubehörteilen. Darüber hinaus enthält der Katalog Applikationen zu Ventilschaltungen und andere wertvolle Tipps rund um die Chromatographie.",
+        "ANWENDUNGEN": ["Affinitätschromatographie", "Festphasenextraktion", "Flüssigchromatographie", "Gaschromatographie", "Überkritische Flüssigkeitschromatographie", "Überkritische Fluid-Extraktion", "UHPLC"],
+        "PRODUKTKATEGORIEN": ["Chromatographie-Fittinge", "Chromatographie-Zubehör", "Chromatographiesäulen", "Chromatographieventile", "Edelstahlkapillaren", "Fittinge", "Gaschromatographieventile", "GC-Detektoren", "GC-Säulen", "HPLC Schaltventile", "HPLC-Zubehör", "Kapillarsäulen", "Kapillarschläuche", "UHPLC-Fittinge", "UHPLC-Ventile", "UHPLC-Zubehör"],
+        "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    },
+    {
+        "Name": "SmartCheck für Pipetten",
+        "Beschreibung": "Schnelle Überprüfung Ihrer Pipette in weniger als 60 Sekunden. Fast jeder Benutzer fragt sich, ob er sich wirklich auf seine Pipettierergebnisse verlassen kann. Dies liegt daran, dass zwischen den Kalibrierungen viele Probleme mit der Pipette auftreten können, wie z. B. falsche Verwendung, Herunterfallen, Verschleiß, Austausch mit anderen Benutzern usw., die zu falschen oder inkonsistenten Ergebnissen führen können. Dies verursacht Nacharbeiten, Materialverschwendung und zusätzlichen Aufwand. Zwischen den Kalibrierungen bietet SmartCheck eine schnelle und bequeme Möglichkeit zu überprüfen, ob eine Pipette immer noch genau dosiert. Darüber hinaus ist es sehr einfach: Geben Sie destilliertes Wasser in die Öffnung und SmartCheck erkennt automatisch das Testvolumen und fordert dann den Benutzer auf, dasselbe Volumen dreimal mehr zu dosieren. Von Anfang bis Ende liefert SmartCheck ein Pass/Fail-Ergebnis in weniger als 60 Sekunden. Im Gegensatz zu allen anderen Methoden ist SmartCheck das erste und einzige Instrument auf dem Markt, das das Volumen genau mit einer Flüssigkeit misst und es gravimetrisch bestimmt. Reduzieren Sie das Risiko von Experimentausfällen und verbessern Sie die Reproduzierbarkeit. Überprüfen Sie die Pipetten regelmäßig, um die bestmöglichen Ergebnisse zu erzielen - jederzeit!",
+        "ANWENDUNGEN": ["Pipettenkalibrierung", "Pipettenprüfung", "Pipettieren", "Volumenkontrolle"],
+        "PRODUKTKATEGORIEN": ["Laborgeräte", "Pipettenkalibrierungsgeräte"],
+        "ZIELBRANCHEN": ["Getränke", "Biotechnologie", "Chemie", "Lebensmittel", "Pharma"]
+    },
+    {
+        "Name": "Leistungsfähige, sichere, flexible: Kompakte Laborspülmaschinen mit intelligentem Spülsystem",
+        "Beschreibung": "Die kompakten Laborspülmaschinen der Serie PG 85 bieten erstklassige Leistung und verbrauchen weniger Wasser, Energie und Prozesschemikalien. Dies ist das Ergebnis eines intelligenten und innovativen Wasserkreislaufsystems, das den Sprühdruck in jeder einzelnen Programmphase an spezifische Anforderungen anpasst. Dies spart sowohl Zeit als auch Energie. Bei der Trocknung von Laborglaswaren kombinieren diese Maschinen Effizienz mit Benutzerfreundlichkeit. Bei Modellen mit EcoDry öffnet sich die Tür am Ende jedes Programms automatisch. Dies gewährleistet, dass die Ladung schnell trocknet und abkühlt. Bei Modellen mit DryPlus wird die im Schrank verbleibende Feuchtigkeit durch die beheizte Trockenluft absorbiert und über den besonders effizienten Dampfkondensator an die Atmosphäre abgegeben. Zusätzlichen Komfort und eine hervorragende Ergonomie bietet der neue und patentierte Salzbehälter, der von der Kammer zur Tür verlegt wurde. Die Unterbau-Modelle verfügen auch über das EasyLoad modulare Ladeträgersystem, um Laborglaswaren aller Formen und Größen aufzunehmen. Dies gewährleistet höchste Flexibilität bei der Aufbereitung. Laden war noch nie so einfach wie mit EasyLoad!",
+        "PRODUKTKATEGORIEN": ["Laborspülmaschinen", "Laborgeräte"],
+        "ZIELBRANCHEN": ["Chemie", "Lebensmittel", "Biotechnologie", "Pharma", "Getränke"]
+    },
+    {
+        "Name": "CrystalBreeder: Die Mehrreaktor-Kristallisationsplattform der nächsten Generation",
+        "Beschreibung": "Der CrystalBreeder ist die Mehrreaktor-Kristallisationsplattform der nächsten Generation für die Feststoffforschung mit mittlerem Durchsatz, die bei einem Arbeitsvolumen von 0,1 mL arbeitet. Führen Sie schnelle komplette Kristallisationsscreens mit nur 100 mg Probe durch. Der CrystalBreeder liefert Echtzeittrübheitsinformationen für 32 parallel temperaturgesteuerte Experimente. Wenn frühe Löslichkeitsinformationen wichtig sind, hören Sie auf zu raten und lassen Sie den CrystalBreeder Sie an die Spitze bringen. Der CrystalBreeder wurde mit Vielseitigkeit im Sinn entworfen. Verwenden Sie das Overhead-Rühren mit einzigartigem Haken-Design, um dicke Schlämme und viskose Flüssigkeiten zu mischen. Die CrystalBreeder-Verdunstungstürme ermöglichen die Durchführung von kontrollierten Verdunstungskristallisationsstudien. Die Dampfdiffusionskristallisation ist jetzt durch die Nutzung des einzigartigen Dampfdiffusionsaufbaus möglich. Verbessern Sie Ihr Kristallisationsscreening mit dem CrystalBreeder, dem Mehrreaktorsystem, mit dem Sie kleine Mengen Probe unter kontrollierten Bedingungen durchsieben können.",
+        "ANWENDUNGEN": ["Kristallisation", "Kristallisationsscreening", "Polymorph-Screening", "Salz-Screening", "Feststoffforschung", "Löslichkeitsbestimmung"],
+        "PRODUKTKATEGORIEN": ["Kristallisationsplattformen", "Laborgeräte", "Laborinstrumente"],
+        "ZIELBRANCHEN": ["Getränke", "Biotechnologie", "Chemie", "Lebensmittel", "Pharma", "Kunststoffe"]
+    },
+    {
+        "Name": "Alles unter Kontrolle - mit diesem intelligenten Mikrowellenverdauungssystem",
+        "Beschreibung": "Das Mikrowellenverdauungssystem MARS 6 iWave wurde entwickelt, um die Mikrowellenverdauung und die mikrowellengestützte Probenvorbereitung praktisch mühelos zu gestalten. Fortschritte bei ICP- und ICP-MS-Systemen erfordern ein Mikrowellenverdauungssystem, das schnelle und vollständige Verdauungen für niedrigere Nachweisgrenzen in einer Hochdurchsatzumgebung bietet. Die Notwendigkeit, schrumpfende Budgets mit höheren Produktivitätsanforderungen in Einklang zu bringen, erfordert eine kostengünstige, robuste Plattform, die leicht aufgerüstet werden kann. Sich ändernde Laboratoriumsdynamiken verlangen ein System mit integrierten Schulungsfähigkeiten. MARS 6 iWave bietet all dies im einfachsten Mikrowellenverdauungssystem, das jemals entwickelt wurde.",
+        "ANWENDUNGEN": ["Säureverdauung", "Verdauung", "Verdauungstechnologie", "Extraktion", "Extraktionsmethode", "Fettanalyse", "Fettbestimmung", "Lebensmittelanalytik", "Mikrowellenverdauung", "Mikrowellen-Hochdruckverdauung", "Druckverdauung", "Probenvorbereitung", "Abwasseranalytik"],
+        "PRODUKTKATEGORIEN": ["Verdauungssysteme", "Extraktionssysteme", "Laborgeräte", "Mikrowellenverdauungssysteme"],
+        "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Getränke", "Lebensmittel", "Pharma", "Kunststoffe"]
+    },
+    {
+        "Name": "Crystal16 - Das ultimative Instrument für Forschung und Prozessentwicklung",
+        "Beschreibung": "Verbessern und beschleunigen Sie Ihre Kristallisationsforschung mit dem Crystal16-Parallelen-Kristallisator, dem ultimativen Instrument für Forschung und Prozessentwicklung. Mit 16 Reaktoren mit einem Volumen von 1 mL bestimmen Sie leicht Löslichkeitskurven und durchsuchen Kristallisationsbedingungen. Erleben Sie das von über 300 Kristallisationschemikern auf der ganzen Welt verwendete Werkzeug. Neue Funktionen: Overhead-Rühren und Software: Top-Rühren jetzt verfügbar. Verringern Sie die Attritionsprobleme erheblich. Neue leicht zu bedienende, flexible Software mit verbesserten Forschungsmöglichkeiten. Rückkopplungssteuerung: Entwerfen Sie Ihre Experimente mit automatischer Entscheidungsfindung. Weniger Zeit für die Automatisierung Ihres Prozesses; vereinfachen Sie die Messungen der Nukleationszeit. Erweiterte Funktionen: Integrierte Luftkühlung. Beseitigen Sie die Notwendigkeit von unordentlichen Kältemaschinen oder einer Hauswasserversorgung. Erweiterter Temperaturbereich von -25°C bis 150°C. Crystal16. Der neue Branchenstandard in Kristallisationsstudien.",
+        "ANWENDUNGEN": ["Co-Kristall-Screening", "Kristallisation", "Nukleation", "Polymorph-Screening", "Prozessentwicklung", "Salz-Screening", "Löslichkeitsbestimmung"],
+        "PRODUKTKATEGORIEN": ["Analytische Instrumente", "Kristallisationssysteme", "Kristallisatoren", "Laborgeräte"],
+        "ZIELBRANCHEN": ["Getränke", "Biotechnologie", "Chemie", "Lebensmittel", "Pharma", "Kunststoffe"]
     }
     ]
