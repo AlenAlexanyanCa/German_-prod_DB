@@ -70,5 +70,75 @@
     "ANWENDUNGEN": ["Asymmetrische Fluss-Feldfluss-Fraktionierung", "Feldflussfraktionierung", "Molekularbiologie", "Polymeranalytik", "Polymeren-Trennung", "Proteinanalytik", "Trennung"],
     "PRODUKTKATEGORIEN": ["AF4-Systeme", "Emulsionen", "Laser", "Makromoleküle", "MALS-Detektoren", "Nanopartikel", "Partikelanalysatoren", "Polymere", "Proteinanalysatoren", "Separatoren"],
     "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Kunststoffe", "Pharma"]
+    },
+    {
+    "Name": "Synaptic Lab - Laborautomatisierungssysteme",
+    "Beschreibung": "Kombinieren Sie beliebige Laborgeräte zu einem automatisierten Versuchsablauf. Entdecken Sie das Synaptic Lab für effiziente Laborautomatisierung: Steuern Sie jedes Gerät mit Schnittstelle (z.B. RS232) einfach über unser Gateway und die intuitive App. Dank unserer umfangreichen Gerätebibliothek werden viele Geräte bereits automatisch erkannt und konfiguriert, wodurch der Einrichtungsprozess zum Kinderspiel wird. Die Synaptic-Software ermöglicht eine flexible Prozessgestaltung. Einmal eingerichtet, kann das Gateway Ihre Abläufe eigenständig steuern, auch ohne direkte Verbindung zur Bediensoftware. Passen Sie Einstellungen in Echtzeit an und genießen Sie die Freiheit, Prozesse zu starten und zu überwachen, während Sie sich anderen Aufgaben widmen. Ob Fermentation, Zellkultur, Synthesen, Extraktion oder beliebige weitere Verfahren - Erhöhen Sie Ihre Reproduzierbarkeit und Effizienz. Unsere Preisgestaltung richtet sich nach der Anzahl der angesteuerten Geräte, sodass wir Ihnen ein individuelles Angebot machen können, das genau zu Ihren Bedürfnissen passt. Kontaktieren Sie uns für Ihren Einstieg in eine smarte, flexible Laborumgebung mit Synaptic Lab.",
+    "ANWENDUNGEN": ["Dokumentation", "Extraktion", "Fermentation", "Fermentierung", "Laborautomation", "Laborautomatisierung", "Labordigitalisierung", "pH-Regelung", "Rezeptursteuerung", "Synthese", "Syntheseautomatisierung", "Synthesekontrolle", "Synthesesteuerung", "Versuchsautomatisierung", "Versuchsdokumentation", "Zellkultur"],
+    "PRODUKTKATEGORIEN": ["Laborautomatisierungssysteme", "Laborgerätesoftware", "Laborgerätesteuerung"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Kunststoffe", "Pharma"]
+    },
+    {
+    "Name": "Innovatives Festphasenextraktionssystem",
+    "Beschreibung": "Unsere Innovation – Effizienz und Vielseitigkeit neu definiert in der Festphasenextraktion. Besuchen Sie uns auf unserem Stand, um unsere neueste Entwicklung in der Festphasen Extraktion kennenzulernen. Der neue Analysator ist noch schneller, als unser SPE-3, der seit Jahren die Probenvorbereitung leistungsstark vollständig automatisiert. Auf der Analytica enthüllen wir unser neuestes Produkt für Sie! Seien Sie gespannt, wie wir Ihren Alltag im Labor noch verbessern können.",
+    "ANWENDUNGEN": ["Festphasenextraktion", "Laborautomatisierung", "Pharmazie", "Probenvorbereitung"],
+    "PRODUKTKATEGORIEN": ["Festphasenextraktionssysteme"],
+    "ZIELBRANCHEN": ["Chemie", "Getränke", "Lebensmittel"]
+    },
+    {
+    "Name": "Labor der Zukunft - Höchste Flexibilität",
+    "Beschreibung": "Höchste Flexibilität für das Labor der Zukunft. Die Fertigung im 300 mm Rastermaß ist Basis für die Integration in die moderne Laborinfrastruktur. Die neue Generation bietet vielfältige Nachrüstmöglichkeiten, z. B. das universelle Austauschen der Arbeitsplatten mit integrierter Tastatur, Heiz- oder Kühlplatte und LED-Hintergrundbeleuchtung. Um für zukünftige Verwendungszwecke und Laborprozesse optimal vorbereitet zu sein, ist die Konstruktion konsequent auf maximale Flexibilität ausgerichtet. Viele Anpassungen sind deshalb nicht nur bei der Erstbestellung möglich, sondern können auch nachträglich und vor Ort durchgeführt werden. Die Bedienung zeichnet sich durch höchste Benutzerfreundlichkeit aus. Hierfür bietet sie ein neu entwickeltes User-Interface mit intuitiver Menüführung über ein High-End-Display mit präziser Touch-Steuerung und Darkmode-Funktion. Die optionale und neu entwickelte OPC-UA-Schnittstelle erlaubt die Kommunikation mit anderen Laborgeräten und Überwachungseinrichtungen. Über diese Schnittstelle wird das Monitoring unterschiedlichster Betriebsdaten, sämtlicher Anmeldungen und Betriebsstörungen ermöglicht.",
+    "ANWENDUNGEN": ["Analytik", "Arbeitsschutz", "Arbeitssicherheit", "Biotechnologie", "Digitalisierung", "Life Science", "Pharmazie", "Steriltechnik"],
+    "PRODUKTKATEGORIEN": ["mikrobiologische Sicherheitswerkbänke", "Sicherheitswerkbänke"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Pharma"]
+    },
+    {
+    "Name": "Speedwave XTRACT - Mikrowellen-Probenvorbereitung",
+    "Beschreibung": "Einfache, sichere und flexible Mikrowellen-Probenvorbereitung von Umwelt- und Lebensmittelproben. Die speziell für Laboranwendungen entwickelte speedwave XTRACT zur Mikrowellen-Probenvorbereitung überzeugt durch geringste Betriebskosten, einfache Bedienung und höchste Sicherheit – und das ab sofort auch für Extraktionen. Vor allem Umwelt- und Lebensmittellabore mit hohem Probendurchsatz profitieren davon. Bis zu 32 Proben werden gleichzeitig bearbeitet. Mit 3 Standardmethoden gelingt der Aufschluss von 90% aller Pharma- und Lebensmittelproben.",
+    "ANWENDUNGEN": ["Druckaufschluss", "Extraktion", "Futtermittelanalyse", "Futtermittelanalytik", "Lebensmittelanalysen", "Lebensmittelanalytik", "Lösungsmittelextraktion", "Mikrowellen-Extraktion", "Mikrowellenaufschluss", "Probenvorbereitung", "Qualitätskontrolle", "Umweltanalytik"],
+    "PRODUKTKATEGORIEN": ["Probenvorbereitungssysteme"],
+    "ZIELBRANCHEN": ["Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    },
+    {
+    "Name": "Zoom HT Microplate Washer - Hochdurchsatzsystem",
+    "Beschreibung": "Automatisiertes Waschen und Dispensieren von Mikroplatten bei hohem Durchsatz. Der Zoom HT Microplate Washer ist ein modulares System, das eine unübertroffene Geschwindigkeit beim Waschen von Mikroplatten im 96- und 384-Well-Format bietet. Das kompakte System ermöglicht einen automatisierten Hochdurchsatzbetrieb über einen eingebauten Plattenstapler. In Verbindung mit dem optionalen 2-Kanal-Dispensiermodul wird der Zoom Washer zu einem hocheffizienten System zur Plattenbeschichtung. Dieses multifunktionale System wurde für Anwendungen mit hohem Durchsatz entwickelt und hilft Ihnen, Ihre Produktivität und Effizienz zu steigern.",
+    "ANWENDUNGEN": ["ELISA", "Mikroplattenbeschichtung"],
+    "PRODUKTKATEGORIEN": ["Microplatewasher", "Mikroplattendispenser", "zellbasierte Assays"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Pharma"]
+    },
+    {
+    "Name": "Probengeber für Gasproben mit hoher Kapazität",
+    "Beschreibung": "Der Autosampler wird standardmäßig mit einem Tray für 210 Headspace Vials (10/20 ml) und für 360 Labco Exetainer (12 ml) ausgeliefert. Es können kundenspezifische Trays auf einer maximalen Fläche von X=380 mm und Y=480 mm bei einer maximalen Höhe der Probenflaschen (Vials) von Z=150 mm angefertigt werden. Bis zu vier Kalibrationsgase könne direkt an dem Probengeber angeschlossen werden. Die Kalibration wird über die Autosampler interne Software gesteuert. Je nach Bedarf kann auch eine Kontrollkalibration (der untersten Konzentration) nach einer gewünschten Anzahl von Proben eingestreut werden. Das komplette Probensystem, einschließlich der Probenschleife des Gaschromatographen, wird mit Hilfe einer Drehschieber-Vakuum-Pumpe evakuiert. Dadurch kann eine kontaminationsfreie Überführung der Probe ermöglicht werden. Die Kopplung kann mit jedem Gaschromatographen, der über eine Probenschleife verfügt, erfolgen. Der Autosampler ist startbar über ein Kurzschlusssignal.",
+    "ANWENDUNGEN": ["Gasanalytik", "Klimagasanalytik", "Treibhausgasanalytik"],
+    "PRODUKTKATEGORIEN": ["Autosampler", "Gasprobensampler", "Probengeber"],
+    "ZIELBRANCHEN": ["Chemie"]
+    },
+    {
+    "Name": "Neuer Multi-Liter Wasserstoff-Generator von VICI DBS",
+    "Beschreibung": "Zuverlässig und konstante hohe Produktivität sind die Anforderungen an heutige und zukünftige Gasgeneratoren. Diese High-Volume Modelreihe sind die neuesten Wasserstoff-Generatoren von VICI DBS, die die ganze Anwendungsbandbreite bei hoher Wasserstoff- Reinheit von 99.99997%* abdeckt. Es werden vier Varianten mit Flussraten von 4.5l, 9l, 13.5l und 18l angeboten. Die bewährte PEM (ProtonExchangeMembrane)-Technologie mit Titan Zellen garantiert dabei höchste Langlebigkeit bei geringstem Wartungsaufwand. Das modulare Design erlaubt auch einen modularen Einsatz: sollte eine von max. 4 Zelleinheiten ausfallen, können die anderen weiterproduzieren. Das Gerät ist mobil und bedarf nur wenig Platz. Die Inbetriebnahme ist einfach und somit kostensparend. Das intuitive Kontrollsystem wird über den 7\" Touchscreen bedient. Sicherheit ist immer im Fokus! Deshalb verfügt der Multi-Liter Generator selbst nur über eine kleine Wasserstoff-Speichereinheit und ein automatisiertes Abschaltsystem, welches bei internen und externen Wasserstoffleckagen, Überdruck und zu geringem Wasserstand reagiert.",
+    "ANWENDUNGEN": ["Chemische Gasphasenabscheidung (CVD)", "Gaschromatographie", "Hydrierung"],
+    "PRODUKTKATEGORIEN": ["Gasgeneratoren", "Wasserstoff-Generator", "Wasserstoffgeneratoren"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma"]
+    },
+    {
+    "Name": "Innovative Top-Loader Mikrowelle bietet einfache Handhabung, Sicherheit und geringe Betriebskosten",
+    "Beschreibung": "Geringste Betriebskosten, einfache Bedienung und höchste Sicherheit zeichnen die Berghof Aufschlusssysteme aus - von der einfachen Probenvorbereitung in der Routineanalytik bis hin zu Systemen für anspruchsvolle Proben. Ein entscheidender Vorteil der Berghof Mikrowellenaufschluss-Systeme sind die komplett aus TFM gefertigten Aufschlussgefäße. Die berghofeigene Herstellung dieses Fluorpolymers garantiert eine sehr hohe Materialreinheit, unübertroffene Qualität und Lebensdauer. Berghof schließt die Gefäße in die Gewährleistung ein. Damit vermeiden wir Abfälle und Sie profitieren von geringeren Betriebskosten. Eigens für Mikrowellenaufschlüsse entwickelte berührungslose Sensoren kontrollieren alle Probentemperaturen und Drücke. Sensoranschlüsse entfallen, was die Bedienung vereinfacht und die Reaktionen sicher steuert. Weitere Pluspunkte hinsichtlich einfacher Bedienung und Sicherheit sind manuell zu handhabende Gefäße, einfache Gefäßreinigung, Gasssammelsystem zur Vermeidung von Korrosion, leichte Beladung mittels Top-Loading, robustes Ofendesign, intuitiv zu bedienende Software usw.",
+    "ANWENDUNGEN": ["Aufschluss", "Druckaufschluss", "Lebensmittelanalytik", "Mikrowellenaufschluss", "Mikrowellendruckaufschluss", "Probenvorbereitung", "Säureaufschluss", "Umweltanalytik"],
+    "PRODUKTKATEGORIEN": ["Aufschlusssysteme", "Druckaufschlussgeräte", "Mikrowellen-Aufschlusssysteme", "Mikrowellenaufschlussgeräte"],
+    "ZIELBRANCHEN": ["Chemie", "Getränke", "Kunststoffe", "Lebensmittel", "Pharma"]
+    },
+    {
+    "Name": "Service & Support für Wasseraufbereitungssysteme",
+    "Beschreibung": "Milli-Q Services ist ein umfassender Service für optimale Leistung, Zuverlässigkeit und Langlebigkfür der Milli-Q Wasserreinigungssysteme.\n\nMILLI-Q SERVICEPLÄNE Wählen Sie aus 3 Serviceleveln, um die Anforderungen Ihres Labors zu erfüllen. Unsere Servicevereinbarungen beinhalten eine vollständige jährliche Überprüfung durch einen zertifizierten Außendiensttechniker und Originalteile aus unserer ISO-zertifizierten Produktionsstätte.\n\nMYMILLI-Q DIGITALE DIENSTLEISTUNGEN Vereinfachen Sie die Systemverwaltung und maximieren Sie die Produktivität Ihres Labors mit der MyMilli-Q Online-Lösung - Online-Vertragsmanagement - MyMilli-Q Fernbetreuung - Fehlerbehebungsportal für Analyzer-Hotlines\n\nSYSTEMQUALIFIZIERUNG & VALIDIERUNG Für regulierte Umgebungen erleichtern unsere Service Pharma-Pläne Ihre Validierungsverfahren. Diese Pläne decken alle Elemente ab, die für die Neuqualifizierung von Systemen erforderlich sind.\n\nKALIBRIERUNG, VERIFIZIERUNG UND EIGNUNGSPRÜFUNG - Risikobeseitigung von Abweichungen - Sicherstellung der Integrität Ihrer Arbeit - Qualitätssicherung",
+    "ANWENDUNGEN": ["Instandhaltung", "Kalibrierung", "Kreislaufdesinfektion", "Laborwasseraufbereitung", "präventive Wartung", "Qualitätsprüfung", "Reinstwasseraufbereitung", "Tankdesinfektion", "Validierung", "Wartung", "Wasseraufbereitung", "Wasserreinigung"],
+    "PRODUKTKATEGORIEN": ["Labor-Wasseraufbereitungssysteme", "Laborwassersysteme", "Reinstwassersysteme", "Reinwassersysteme", "Wasseraufbereitungssysteme", "Wasserreinigungssysteme"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma"]
+    },
+    {
+    "Name": "Ein hochreines Typ-1-Wasserreinigungssystem, das speziell für Sie entwickelt wurde",
+    "Beschreibung": "Das Milli-Q IQ7000-System ist ein fortschrittliches Wasserreinigungssystem, das speziell für Laboranwendungen entwickelt wurde. Es kann sowohl für die Produktion von Reinwasser als auch von ultrareinem Wasser verwendet werden. Die fortschrittliche Technologie des Systems basiert auf intelligenten Sensoren und innovativen Algorithmen. Diese ermöglichen eine Echtzeitüberwachung und präzise Steuerung der Wasseraufbereitung, um eine gleichbleibend hohe Wasserqualität zu gewährleisten. Dank dieser intelligenten Technologie passt sich das System automatisch an schwankende Bedingungen an und liefert zuverlässige und gleichbleibende Ergebnisse:\n\n- Benutzerfreundliche Oberfläche mit intuitiver Bedienung und übersichtlichem Display - Nachhaltiges Design, das den Wasser- und Energieverbrauch minimiert - Gewährleistet konsistente und reproduzierbare Ergebnisse in einer Reihe von Laboranwendungen - Unterstützt die präzise Kontrolle der Wasserqualität für zuverlässige Experimente und Analysen",
+    "ANWENDUNGEN": ["Laborwasseraufbereitung", "Reinstwasseraufbereitung", "Wasseraufbereitung"],
+    "PRODUKTKATEGORIEN": ["Labor-Wasseraufbereitungssysteme", "Laborwassersysteme", "Reinstwassersysteme", "TOC-Monitore", "Wasseraufbereitungssysteme"],
+    "ZIELBRANCHEN": ["Biotechnologie", "Chemie", "Pharma"]
     }
     ]
